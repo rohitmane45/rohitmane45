@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 B.E. AI & Data Science @ Dr. D. Y. Patil Institute of Technology | CGPA: 9.12<br>🔬 Data Scientist Intern @ Elevatelabs | Best Performer Award<br>🚀 Building end-to-end AI products — from ML pipelines to production dashboards<br>🌱 Currently exploring LLMs, RAG, and real-time ML systems<br>💡 Design Co-Lead @ S4DS (Society for Data Science)<br>⚡ Fun fact: I build things that actually work in production
+🎓 I am a passionate AI and Data Science engineering student at Savitribai Phule Pune University, currently studying at Dr. D. Y. Patil Institute of Technology. With a strong foundation in machine learning and data engineering, my focus is on bridging the gap between theoretical models and real-world applications. I thrive on architecting end-to-end AI products—from scalable ML pipelines to interactive production dashboards. Whether I am exploring large language models (LLMs) and RAG frameworks or developing cross-platform applications, my goal is always the same: building resilient, intelligent systems that actually work in production.<br>🚀 Building end-to-end AI products — from ML pipelines to production dashboards<br>🌱 Currently exploring LLMs, RAG, and real-time ML systems<br>💡 Design Co-Lead @ S4DS (Society for Data Science)<br>⚡ Fun fact: I build things that actually work in production
 
 
 ## 🌐 Socials:
