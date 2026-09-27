@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **drohitmane07@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1KTUpXyoZmzWJ8eRulN6XRFdhofTjE-jD/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/13no6fP33yumtoT5rh2W0S46VshflgZdd/view?usp=sharing)
 
 
 
