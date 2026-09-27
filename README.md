@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **RAG,Agentic AI**
 
-- 👨‍💻 All of my projects are available at [https://www.rohitmane.site/](https://www.rohitmane.site/)
+- 👨‍💻 All of my projects are available at [https://www.manerohit.site/](https://www.manerohit.site/)
 
 - 📫 How to reach me **drohitmane07@gmail.com**
 
